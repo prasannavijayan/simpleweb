@@ -1,0 +1,20 @@
+/* Basic style */
+.herounit {
+  background-image: url("../images/herounit.jpg");
+  height: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.herounit-container {
+  margin-top: 20%;
+  color: whitesmoke;
+  display: table;
+  /*height: 100%;*/
+}
+
+.herounit-content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
