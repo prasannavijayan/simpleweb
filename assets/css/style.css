@@ -17,6 +17,10 @@
   padding: 50px 0 60px;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 .herounit {
   background-image: url("../images/herounit.jpg");
   height: 80%;
@@ -40,4 +44,32 @@
 .feature-tab .feature-quotes {
   /*background-color: #009975;*/
   padding: 50px 0 50px;
+}
+
+
+/* Card styling */
+.card {
+  border: 1px solid;
+  padding: 15px;
+}
+
+.card img {
+  border:15px solid whitesmoke;
+  background-color: #BDC3C7;
+  padding: 5px;
+  width: 220px
+}
+
+.card .card-text {
+  text-align: justify;
+}
+
+.card-mini {
+  padding: 10px;
+  background-color: white;
+}
+
+.lead2 {
+  text-align: right;
+  padding-top: 5px;
 }
