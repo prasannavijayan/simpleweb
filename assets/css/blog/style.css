@@ -1,0 +1,92 @@
+/* Basic style */
+/* Global */
+.opensans {
+  font-family: "Open Sans";
+}
+
+* {
+  font-family: "Open Sans";
+  font-weight: 300;
+}
+
+.bg-emerald {
+  background-color: #F3F3F3;
+}
+
+.bg-blue {
+  background-color: #F3F3F3;
+}
+
+.padd-equal-horizontal {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.wall {
+  background-color: white;
+  text-align: center;
+  min-height: 220px;
+}
+
+.padd-space {
+  padding: 50px 0 60px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-huge {
+  font-size: 72px;
+}
+/*.herounit {
+  background-image: url("../images/herounit.jpg");
+  height: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.herounit-container {
+  margin-top: 20%;
+  color: whitesmoke;
+  display: table;
+  /*height: 100%;*/
+}
+/*
+.herounit-content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.feature-tab .feature-quotes {
+  padding: 50px 0 50px;
+}*/
+
+
+/* Card styling */
+/*.card {
+  border: 1px solid;
+  padding: 15px;
+}
+
+.card img {
+  border:15px solid whitesmoke;
+  background-color: #BDC3C7;
+  padding: 5px;
+  width: 220px
+}
+
+.card .card-text {
+  text-align: justify;
+}
+
+.card-mini {
+  padding: 10px;
+  background-color: white;
+}
+
+.lead2 {
+  text-align: right;
+  padding-top: 5px;
+}*/
